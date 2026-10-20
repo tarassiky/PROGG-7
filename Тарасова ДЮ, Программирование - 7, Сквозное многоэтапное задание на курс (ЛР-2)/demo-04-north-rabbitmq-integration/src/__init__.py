@@ -1,0 +1,1 @@
+"""Стадия 04: RabbitMQ, Outbox, Inbox."""
